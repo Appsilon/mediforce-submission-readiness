@@ -6,7 +6,7 @@ This study is sponsored by {sponsor name} but the operational aspects are outsou
 
 The Final Protocol will be available on {date - final protocol deadline} and the submission is planned in CTIS on {date - submission day}.
 
-Study details:
+**Study details:**
 
 | Sponsor's System #: | {sponsors system} |
 | :---- | :---- |
@@ -19,7 +19,7 @@ Study details:
 | Tentative list of countries where the trial is intended to be run | {list of countries} |
 | IVD/MD involved in the study?  | {IVD/MD involved in the study?} |
 
-Contacts:
+**Contacts:**
 
 | Regulatory | {Regulatory Lead/EU PM/IRM} |
 | :---- | :---- |
@@ -28,14 +28,14 @@ Contacts:
 | PTR  | {PTR name} |
 | CDSL | {CDSL name} |
 
-RIM: 
+**RIM:** 
 
 | RIM event for clinical Study | {RIM event for clinical Study} |
 | :---- | :---- |
 | RIM event for IVD/MD Study, if applicable | {RIM event for IVD/MD Study} |
 
    
-PLANNED DISPATCH & SUBMISSION DATES:
+**PLANNED DISPATCH & SUBMISSION DATES:**
 
 | Planned dispatch date for RoW-E7 countries  | {dispatch date for RoW-E7 countries} |
 | :---- | :---- |
