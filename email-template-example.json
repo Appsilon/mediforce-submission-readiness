@@ -38,9 +38,6 @@
   "EU CTR summary responsible": "Dr. James Hartsworth",
   "CTRL name": "Elena Wachsberg",
   "stakeholders-emails": { 
-    "CDSL": "pawel+cdsl@appsilon.com", 
-    "PTR": "pawel+cdsl@appsilon.com", 
-    "EU QPs": "pawel+euqps@appsilon.com",
-    "LABELING TEAM": "pawel+labelingteam@appsilon.com" 
+    "CDSL": "pawel+cdsl@appsilon.com"
   }
 }
