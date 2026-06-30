@@ -141,7 +141,7 @@
       },
       "description": "Connect to the SFTP shared drive and summarize the files found.",
       "agent": {
-        "model": "anthropic/claude-sonnet-4.6",
+        "model": "anthropic/claude-sonnet-4",
         "image": "mediforce-golden-image",
         "timeoutMinutes": 20,
         "confidenceThreshold": 0.8,
@@ -205,7 +205,7 @@
         "ANTHROPIC_BASE_URL": "https://openrouter.ai/api"
       },
       "agent": {
-        "model": "anthropic/claude-sonnet-4.6",
+        "model": "anthropic/claude-sonnet-4",
         "image": "mediforce-golden-image",
         "confidenceThreshold": 0.7,
         "fallbackBehavior": "escalate_to_human",
@@ -245,7 +245,7 @@
         "ANTHROPIC_BASE_URL": "https://openrouter.ai/api"
       },
       "agent": {
-        "model": "anthropic/claude-sonnet-4.6",
+        "model": "anthropic/claude-sonnet-4",
         "image": "mediforce-golden-image",
         "confidenceThreshold": 0.7,
         "fallbackBehavior": "escalate_to_human",
