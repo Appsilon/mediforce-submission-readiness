@@ -198,7 +198,7 @@
       "type": "creation",
       "description": "Draft a polite reminder email to stakeholders.",
       "executor": "agent",
-      "autonomyLevel": "L1",
+      "autonomyLevel": "L4",
       "plugin": "claude-code-agent",
       "env": {
         "ANTHROPIC_AUTH_TOKEN": "{{OPENROUTER_API_KEY}}",
@@ -238,7 +238,7 @@
       "type": "creation",
       "description": "Draft an email asking stakeholders to correct or clarify their submissions.",
       "executor": "agent",
-      "autonomyLevel": "L1",
+      "autonomyLevel": "L4",
       "plugin": "claude-code-agent",
       "env": {
         "ANTHROPIC_AUTH_TOKEN": "{{OPENROUTER_API_KEY}}",
